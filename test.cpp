@@ -3,10 +3,6 @@ typedef long long ll;
 using namespace std;
 int main()
 {
-    for (int i = 0; i < 10; i++)
-    {
-        printf("%d\n", i);
-    }
-
+    cout << 15 % -2;
     return 0;
 }
